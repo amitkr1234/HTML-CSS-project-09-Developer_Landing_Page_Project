@@ -13,5 +13,5 @@ This is basically two   pager website Template project made in HTML/CSS for  dev
   - CSS Flex Box
  
  
- !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
+ 
  
